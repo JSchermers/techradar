@@ -1,5 +1,0 @@
-Name;Ring;Quadrant;IsNew;Description;Knowledge excellent;Knowledge mediocre;Knowledge what huh ?
-Typescript;Adopt;Language and frameworks;True;<p>A compile time javascript check tool</p>;Peter, Bas;Joost;Stephanie
-PostCss webpack;Asses;Language and frameworks;False;<p>A webpack plugin for transpiling css</p>;Peter, Bas;Tom;Christian
-Storyboard;Trial;Tools;True;<p>A way for describing components</p>;Thom;Peter;Joost
-IE development;Hold;Tools;False;<p>please stop ie hurting</p>;Nick;Joost, Bas;Peter
