@@ -1,4 +1,4 @@
-Name;Ring;Quadrant;IsNew;Description,
+name;ring;quadrant;isNew;description,
 Typescript;Adopt;Language and frameworks;True;<p>A compile time javascript check tool</p>,
 PostCss webpack;Asses;Language and frameworks;False;<p>A webpack plugin for transpiling css</p>,
 Storyboard;Trial;Tools;True;<p>A way for describing components</p>,
